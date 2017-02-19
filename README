@@ -1,0 +1,10 @@
+#Fourier Basis SARSA Lambda Accumulating Traces
+#Original Paper by Dr Konidaris, Fourier basis for value function approximation
+#Code by Sridhar.T
+Dependencies: Numpy, OpenAI Gym ( Environment simulator available for download)
+1) Change environment if desired. Ensure you change num_actions to the available actions. This is done by checking env.action_space
+2) Change base alpha and fourier order as desired by setting the variables!No other changes needed.3rd order will work well for most problems.
+3) Set gamma, epsilon,zeta(bootstrapping parameter) for task appropriately
+
+Drop a mail at thiagarajan14111@mech.ssn.edu.in for queries. Enjoy experimenting!
+
