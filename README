@@ -6,5 +6,5 @@ Dependencies: Numpy, OpenAI Gym ( Environment simulator available for download)
 2) Change base alpha and fourier order as desired by setting the variables!No other changes needed.3rd order will work well for most problems.
 3) Set gamma, epsilon,zeta(bootstrapping parameter) for task appropriately
 
-Drop a mail at thiagarajan14111@mech.ssn.edu.in for queries. Enjoy experimenting!
+For a detailed discussion, visit : https://sridhartee.blogspot.in/2016/09/fourier-basis-for-value-function.html
 
